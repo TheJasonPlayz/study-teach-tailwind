@@ -12,10 +12,13 @@ header {
     text-align: center;
 }
 nav {
-    display: inline;
     width: 100vw;
     height: 10vh;
     background: #123147;
     box-shadow: 0px 4px 4px rgba(0, 0,0, 0.1);
     text-align: center;
+    list-style: none;
+} 
+li {
+    display: inline;
 }

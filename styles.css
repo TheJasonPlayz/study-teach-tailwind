@@ -20,5 +20,7 @@ nav {
     list-style: none;
 } 
 li {
+    color: white;
     display: inline;
+    padding: 10px;
 }

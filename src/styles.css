@@ -2,5 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-h1 { float: left; }
-nav { float: right; }
+body { background: linear-gradient(180deg, #8ECAE6 0%, #219EBC 100%); }
+ul { list-style: none; }
+li { display: inline; }
